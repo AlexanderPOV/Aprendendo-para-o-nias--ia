@@ -1,0 +1,3 @@
+Criando aqui o primeior codigo, para entender , e começar a aprender IA 
+Imagino que ninguém ira ler isso
+mas achei legal fazer varios commits para fazer testes 
