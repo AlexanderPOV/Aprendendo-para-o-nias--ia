@@ -1,3 +1,5 @@
 Criando aqui o primeior codigo, para entender , e começar a aprender IA 
 Imagino que ninguém ira ler isso
 mas achei legal fazer varios commits para fazer testes 
+agora estou atualizando o diario em txt de uma outra conta 
+depois de criar um novo repositori com o fork 
